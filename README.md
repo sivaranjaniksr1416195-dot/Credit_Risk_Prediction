@@ -145,9 +145,10 @@ Or open the Jupyter notebook:
 
 ## ✨ Author
 
-**Thirumurugan B**\
-Final-year ECE Student \| ML & Data Science\
-Email: *thirumurugan1801@gmail.com*
+**Sivaranjani B**\
+Civil Engineering
+AI Course Student \| ML & Data Science\
+Email: *Sivaranjaniksr1416195@gmail.com*
 
 ------------------------------------------------------------------------
 
